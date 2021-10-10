@@ -1,0 +1,40 @@
+<style text="text/css">
+
+  body {font-family:sans-serif; background-color:rgb(114, 190, 236);}
+  p {font-size:size12pt; text-allign: left; width:0; margin:0}
+  h1 {width:0; hight:0; border:1; text-allign:none; }
+  h2 {background-color:rgb(48, 69, 145); color: white; width:700px; hight: 500px; border:2; padding:0; margin-top:0px; margin-bottom: 0}
+  a {text-decoration: none}
+  em {color: rgb(15, 183, 228)}
+
+  nav {font-weight: bold; color: white; background-color: rgb(48, 69, 145); width:150px; border: thin solid black}
+  nav ul {display:none;}
+  nav:hover ul {display:inline}
+  nav ul li {background-color: white; color: blue; border-top: thin solid black;}
+  nav ul li:hover {font-size: larger; background-color: grey;}
+  li {list-style-type: square}
+
+  span {text-transform:uppercase}
+  div {background-color: white;border: thin solid black;padding:0px; width: 700px}
+
+  p {font-size: larger; text-align: left; width: 700px; margin: inherit;}
+  table {text-allign:0}
+  tr {background-color: grey}
+  th {background-color: white; font-weight: bold}
+  td {text-align: center}
+
+  .special {background-color:rgb(48, 69, 145);}
+  .underline {margin-top:0; text-decoration:underline; font-size: larger; font-weight:bold}
+  .cancelled {text-decoration:line-through}
+  .color {color: rgb(15, 183, 228)}
+  .mustdo {font-weight: bold; text-decoration: underline}
+  .deadline {background-color: yellow}
+  .may {font-weight: bold; text-decoration: underline; background-color: yellow}
+
+  .p1 {z-index:1; position:relative; top:25px; left:10px}
+  .p2 {z-index:2; position:relative; top:-50px; left:55px}
+  .p3 {z-index:3; position:relative; top:200px; left:-400px}
+  .p4 {z-index:1; position:relative; top:50px; left:-400px}
+  .p5 {z-index:2; position:relative; top:200px; left:-500px}
+
+</style>
